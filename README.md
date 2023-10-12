@@ -3,6 +3,19 @@
 - 🌱 I’m currently learning REACT.JS   
 - 📫 How to reach me : mjahmed1280@gmail.com
 
+```javascript
+const ahmed = {
+  pronouns: "he" | "him",
+  code: [Javascript, C, C++, HTML, CSS ],
+  tools: [React, Node, Git, Figma, Bootstarp, tailwind],
+  organaisation: {
+                        coorganizer: "Lovely professional University",
+                        Course : "Master of Computer Apllication"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react "
+}
+```
+
 &nbsp;
 
 ## 🧰 &nbsp;My toolbox
