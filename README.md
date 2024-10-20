@@ -1,18 +1,23 @@
-- 👋 Hey, I’m Jakaria Ahmed
-- 👀 I’m interested in Web-Develpemnt & Problem Solving
-- 🌱 I’m currently learning REACT.JS   
+- 😎 Hey, I’m Jakaria Ahmed
+- 👀 I’m interested in Web-Dev, Cloud Computing and DevOps
+- 🌱 I’m currently learning Docker and exploring Google cloud services  
 - 📫 How to reach me : mjahmed1280@gmail.com
 
 ```javascript
 const ahmed = {
   pronouns: "he" | "him",
-  code: [Javascript, C, C++, HTML, CSS ],
-  tools: [React, Node, Git, Figma, Bootstarp, tailwind],
+  code: [Python, JAVA, Javascript, C, C++, HTML, CSS ],
+  tools+frameworks: [React, Node, Git, Figma, Bootstarp, tailwind, postman],
+  cloud-platform : [google cloud],
   organaisation: {
-                        coorganizer: "Lovely professional University",
-                        Course : "Master of Computer Apllication"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react "
+                     coorganizer: "GroupM Nexus",
+                     des. : "SDE-Executive Trainee"
+                 },
+  education:  {
+                 Institute: "Lovely professional University",
+                 Course : "Master of Computer Apllication"
+              }                 
+ challenge: "Im wokring on a side project - AI Vizualizer"
 }
 ```
 
