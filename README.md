@@ -3,8 +3,7 @@
 <br/>
 </h1>
 
-- 👀 I’m interested in WebDev, IoT, DevOps and lot more stuff...
-- 🌱 I’m currently learning Docker and exploring Google cloud services  
+- 👀 I’m interested in Backend Dev, CLoud Tech, DevOps and lot more tech stuff.........
 - 📫 How to reach me : mjahmed1280@gmail.com
 - 🌐 My portfolio site: [ahmed-io.super](https://ahmed-io.super.site/)
 
