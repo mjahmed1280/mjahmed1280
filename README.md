@@ -3,25 +3,26 @@
 <br/>
 </h1>
 
-- 👀 I’m interested in Backend Dev, CLoud Tech, DevOps and lot more tech stuff.........
+- 😎 I’m a in Fullstack developer with keen intrest in Cloud Tech + DevOps + Data Engineering.........
+- 👀 I'm im currnetly exploring applications of GenAI and AI Agnets
 - 📫 How to reach me : mjahmed1280@gmail.com
-- 🌐 My portfolio site: [ahmed-io.super](https://ahmed-io.super.site/)
+- 🌐 My portfolio site: [zahmed](https://https://zahmed.lovable.app/)
 
 ```javascript
 const ahmed = {
   pronouns: "he" | "him",
   code: [Python, JAVA, Javascript, C, C++, HTML, CSS ],
   tools+frameworks: [Flask, React, Node, Git, Figma, Bootstarp, tailwind, postman],
-  cloud-platform : [google cloud],
+  cloud-platform : [Google Cloud],
   organaisation: {
-                     coorganizer: "GroupM Nexus",
-                     des. : "SDE-Executive Trainee"
+                     coorganizer: "WPP media",
+                     des. : "Executive- Software Developer"
                  },
   education:  {
                  Institute: "Lovely professional University",
                  Course : "Master of Computer Apllication"
               }                 
-  challenge: "Im wokring on a cool side project"
+  challenge: "Im wokring on a cool Agentic AI side project and learning System Design"
 }
 ```
 
