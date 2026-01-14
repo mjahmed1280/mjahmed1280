@@ -3,7 +3,7 @@
 <br/>
 </h1>
 
-- 😎 I’m a in Fullstack developer with keen intrest in Cloud Tech + DevOps + Data Engineering.........
+- 😎 I’m a in generalist sfotware engineer with keen intrest in Backend + DevOps + Data Engineering.........
 - 👀 I'm im currnetly exploring applications of GenAI and AI Agnets
 - 📫 How to reach me : mjahmed1280@gmail.com
 - 🌐 My portfolio site: [zahmed](https://https://zahmed.lovable.app/)
