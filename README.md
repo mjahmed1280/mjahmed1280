@@ -20,9 +20,36 @@
 
 <div align="center">
 
-
+###  Key Projects
 
 </div>
+
+<table>
+<tr>
+
+<td width="50%">
+
+#### 🥗 NutriAI – Full-Stack AI App  
+- [GitHub](https://github.com/mjahmed1280/NutriAI) | [Live Demo](https://nutri-ai-bot.vercel.app/) | Dec 2025
+- AI-powered nutrition assistant chat bot with multimodal inputs (text, voice, and image input).  
+- Renders a health dashboard that calculates **BMI, BMR, metabolic age, and macro targets**.
+
+</td>
+
+<td width="50%">
+
+#### 🤖 TrackBot - Agentic AI  Tracker  
+-  [GitHub](https://github.com/mjahmed1280/track-anything-agent) | Feb 2026 - Present
+- Agentic personal tracking system built with **LangGraph + FastAPI**.  
+- Track anything around _finances, habits, and health_ with NLP and image uploads via a **Telegram Bot**.
+- Auto **Firestore+GoogleSheets sync**.
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -33,26 +60,25 @@
 | 🤝 **Collaboration** | Open to **Open Source AI & Backend Projects** |
 | 📧 **Contact** | **mjahmed1280@gmail.com** |
 | 🌐 **Portfolio** | [ahmed-jakaria.vercel.app](https://ahmed-jakaria.vercel.app/) |
+| 🏢 **Org.** | SDE at [choreograph(WPP Media)](https://www.choreograph.com/)  |
+
+
 
 </div>
 
 ---
 
-
-<table align="center">
-<tr>
-
-<td style="writing-mode: vertical-rl; transform: rotate(180deg); font-weight: bold; font-size: 20px; padding-right:10px;">
-GitHub Stats
-</td>
-
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmed1280&theme=dark" />
-</td>
-
-</tr>
+<div align="center"><b>--GitHub Stats--</b></div>
+<table border="0" >
+  <tr>
+    <td>
+      <img src="https://github-stats-alpha.vercel.app/api?username=mjahmed1280" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmed1280&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
-
 
 ---
 
@@ -71,3 +97,10 @@ GitHub Stats
 | **Web & Specialized** | <img src="https://skillicons.dev/icons?i=graphql,react,nextjs,tailwind,postman,figma" /> |
 ---
 </div>
+
+---
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjahmed1280&theme=github-dark" />
+</div>
+
+---
