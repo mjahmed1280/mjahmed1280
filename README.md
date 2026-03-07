@@ -11,7 +11,7 @@
 
 <div align="left">
 
-- I am a software engineer with **2+ years of experience** building  **scalable, cloud-native, and AI-powered applications.**
+- I am a software dev with **2+ years of experience** building  **scalable, cloud-native, and AI-powered applications.**
 - _ChatGPT says:_   I thrive at the intersection of robust backend architecture and cutting-edge Agentic workflows.
 
 </div>
