@@ -97,10 +97,3 @@
 | **Web & Specialized** | <img src="https://skillicons.dev/icons?i=graphql,react,nextjs,tailwind,postman,figma" /> |
 ---
 </div>
-
----
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjahmed1280&theme=github-dark" />
-</div>
-
----
